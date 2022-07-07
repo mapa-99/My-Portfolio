@@ -1,0 +1,64 @@
+{
+  "front": [
+    {
+      "text": "HTML",
+      "width": "80%"
+    },
+    {
+      "text": "CSS",
+      "width": "80%"
+    },
+    {
+      "text": "Chakra-UI",
+      "width": "80%"
+    },
+    {
+      "text": "Bootstrap",
+      "width": "80%"
+    },
+    {
+      "text": "JavaScript",
+      "width": "80%"
+    },
+    {
+      "text": "React.js",
+      "width": "80%"
+    },
+    {
+      "text": "Node.js",
+      "width": "80%"
+    },
+    {
+      "text": "Responsive",
+      "width": "80%"
+    }
+  ],
+  "back": [
+    {
+      "text": "Express.js",
+      "width": "80%"
+    },
+    {
+      "text": "Postgres",
+      "width": "80%"
+    },
+    {
+      "text": "MySQL",
+      "width": "80%"
+    },
+    {
+      "text": "MongoDB",
+      "width": "80%"
+    }
+  ],
+  "tools": [
+    {
+      "text": "Figma",
+      "width": "80%"
+    },
+    {
+      "text": "Wordpress",
+      "width": "80%"
+    }
+  ]
+}
