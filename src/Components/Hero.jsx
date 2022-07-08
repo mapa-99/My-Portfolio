@@ -1,5 +1,6 @@
 import React from "react";
 import { Typewriter } from "react-simple-typewriter";
+// import image from "../assets/profile.jpeg"
 
 const Hero = () => {
   return (
@@ -30,7 +31,7 @@ const Hero = () => {
               </div>
             </div>
             <div className="col-4" id="image-hero">
-              <img alt="me" className="image-hero" />
+              <img alt="Manuel" className="image-hero" />
             </div>
           </div>
         </div>
